@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VelocityBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+820f20080824f21b28ad5841341765d2df6ba092")]
 [assembly: System.Reflection.AssemblyProductAttribute("VelocityBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VelocityBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

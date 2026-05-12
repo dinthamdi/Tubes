@@ -19,7 +19,7 @@ public class VelocityBot : Bot
         GunColor = Color.DarkViolet;
         RadarColor = Color.Magenta;
         BulletColor = Color.DeepPink;
-        TracksColor = Color.Black;
+        TracksColor = Color.White;
 
         while (IsRunning)
         {

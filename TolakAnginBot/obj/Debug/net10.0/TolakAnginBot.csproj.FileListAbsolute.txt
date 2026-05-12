@@ -1,4 +1,8 @@
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\bin\Debug\net10.0\TolakAnginBot.exe
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\bin\Debug\net10.0\TolakAnginBot.deps.json
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\bin\Debug\net10.0\TolakAnginBot.runtimeconfig.json
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\bin\Debug\net10.0\TolakAnginBot.dll
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\bin\Debug\net10.0\TolakAnginBot.pdb
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\bin\Debug\net10.0\Microsoft.Build.Locator.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\bin\Debug\net10.0\Microsoft.Extensions.Configuration.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
@@ -20,7 +24,10 @@ D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAng
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAnginBot.AssemblyInfoInputs.cache
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAnginBot.AssemblyInfo.cs
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAnginBot.csproj.CoreCompileInputs.cache
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAnginBot.sourcelink.json
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAng.11CDC2E7.Up2Date
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAnginBot.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\refint\TolakAnginBot.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAnginBot.pdb
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAnginBot.genruntimeconfig.cache
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\ref\TolakAnginBot.dll

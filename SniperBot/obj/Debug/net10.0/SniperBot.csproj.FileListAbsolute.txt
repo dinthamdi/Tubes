@@ -1,4 +1,8 @@
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\bin\Debug\net10.0\SniperBot.exe
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\bin\Debug\net10.0\SniperBot.deps.json
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\bin\Debug\net10.0\SniperBot.runtimeconfig.json
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\bin\Debug\net10.0\SniperBot.dll
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\bin\Debug\net10.0\SniperBot.pdb
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\bin\Debug\net10.0\Microsoft.Build.Locator.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\bin\Debug\net10.0\Microsoft.Extensions.Configuration.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
@@ -20,7 +24,10 @@ D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.Ge
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.AssemblyInfoInputs.cache
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.AssemblyInfo.cs
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.csproj.CoreCompileInputs.cache
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.sourcelink.json
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.csproj.Up2Date
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\refint\SniperBot.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.pdb
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.genruntimeconfig.cache
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\ref\SniperBot.dll

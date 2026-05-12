@@ -24,6 +24,7 @@ D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\KacauuwBot\obj\Debug\net10.0\KacauuwBot.
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\KacauuwBot\obj\Debug\net10.0\KacauuwBot.AssemblyInfoInputs.cache
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\KacauuwBot\obj\Debug\net10.0\KacauuwBot.AssemblyInfo.cs
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\KacauuwBot\obj\Debug\net10.0\KacauuwBot.csproj.CoreCompileInputs.cache
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\KacauuwBot\obj\Debug\net10.0\KacauuwBot.sourcelink.json
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\KacauuwBot\obj\Debug\net10.0\KacauuwBot.csproj.Up2Date
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\KacauuwBot\obj\Debug\net10.0\KacauuwBot.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\KacauuwBot\obj\Debug\net10.0\refint\KacauuwBot.dll

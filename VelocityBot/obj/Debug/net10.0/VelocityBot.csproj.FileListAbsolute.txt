@@ -24,6 +24,7 @@ D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\VelocityBo
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\VelocityBot.AssemblyInfoInputs.cache
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\VelocityBot.AssemblyInfo.cs
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\VelocityBot.csproj.CoreCompileInputs.cache
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\VelocityBot.sourcelink.json
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\Velocity.277F2CC5.Up2Date
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\VelocityBot.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\refint\VelocityBot.dll

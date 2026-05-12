@@ -24,6 +24,7 @@ D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\HunterBot\obj\Debug\net10.0\HunterBot.Ge
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\HunterBot\obj\Debug\net10.0\HunterBot.AssemblyInfoInputs.cache
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\HunterBot\obj\Debug\net10.0\HunterBot.AssemblyInfo.cs
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\HunterBot\obj\Debug\net10.0\HunterBot.csproj.CoreCompileInputs.cache
+D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\HunterBot\obj\Debug\net10.0\HunterBot.sourcelink.json
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\HunterBot\obj\Debug\net10.0\HunterBot.csproj.Up2Date
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\HunterBot\obj\Debug\net10.0\HunterBot.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\HunterBot\obj\Debug\net10.0\refint\HunterBot.dll
