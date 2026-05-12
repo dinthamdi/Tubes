@@ -20,6 +20,7 @@ public class VelocityBot : Bot
         RadarColor = Color.Magenta;
         BulletColor = Color.DeepPink;
         TracksColor = Color.White;
+        ScanColor = Color.LightPink;
 
         while (IsRunning)
         {

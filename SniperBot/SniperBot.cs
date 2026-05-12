@@ -18,6 +18,7 @@ public class SniperBot : Bot
         RadarColor = Color.Cyan;
         BulletColor = Color.LightBlue;
         TracksColor = Color.Silver;
+        ScanColor = Color.Aqua;
 
         while (IsRunning)
         {

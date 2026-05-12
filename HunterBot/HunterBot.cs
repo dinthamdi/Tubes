@@ -22,6 +22,7 @@ public class HunterBot : Bot
         RadarColor = Color.Orange;
         BulletColor = Color.Yellow;
         TracksColor = Color.Green;
+        ScanColor = Color.LightGreen;
 
         while (IsRunning)
         {

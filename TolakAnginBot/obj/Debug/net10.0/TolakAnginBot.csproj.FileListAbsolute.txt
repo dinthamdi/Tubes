@@ -1,6 +1,0 @@
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAnginBot.csproj.AssemblyReference.cache
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAnginBot.GeneratedMSBuildEditorConfig.editorconfig
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAnginBot.AssemblyInfoInputs.cache
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAnginBot.AssemblyInfo.cs
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAnginBot.csproj.CoreCompileInputs.cache
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\TolakAnginBot\obj\Debug\net10.0\TolakAnginBot.sourcelink.json

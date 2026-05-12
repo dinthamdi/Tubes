@@ -1,6 +1,0 @@
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.csproj.AssemblyReference.cache
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.GeneratedMSBuildEditorConfig.editorconfig
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.AssemblyInfoInputs.cache
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.AssemblyInfo.cs
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.csproj.CoreCompileInputs.cache
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\SniperBot\obj\Debug\net10.0\SniperBot.sourcelink.json
