@@ -1,0 +1,10 @@
+{
+  "name": "KacauuwBot",
+  "version": "1.0",
+  "authors": ["Dinta,Jelita,Naura"],
+  "description": "Greedy aggressive bot",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net",
+  "programmingLang": "C#"
+}

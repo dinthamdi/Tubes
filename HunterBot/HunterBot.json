@@ -1,0 +1,10 @@
+{
+  "name": "HunterBot",
+  "version": "1.0",
+  "authors": ["Dinta", "Jelita", "Naura"],
+  "description": "Aggressive greedy bot",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net",
+  "programmingLang": "C#"
+}

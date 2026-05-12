@@ -1,0 +1,11 @@
+{
+  "name": "VelocityBot",
+  "version": "1.0",
+  "authors": ["Dinta", "Jelita", "Naura"],
+  "description": "High speed greedy bot",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net",
+  "programmingLang": "C#"
+}
+
