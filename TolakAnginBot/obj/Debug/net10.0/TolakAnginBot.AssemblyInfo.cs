@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TolakAnginBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+820f20080824f21b28ad5841341765d2df6ba092")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57db4fb09571802340a91af1a870ef6a13b9ef5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TolakAnginBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TolakAnginBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
