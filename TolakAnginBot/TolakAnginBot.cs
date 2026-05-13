@@ -18,7 +18,7 @@ public class TolakAnginBot : Bot
         RadarColor = Color.Yellow;
         BulletColor = Color.LightPink;
         TracksColor = Color.Pink; 
-        ScanColor = Color.Lightpurple;
+        ScanColor = Color.Purple;
 
         while (IsRunning)
         {

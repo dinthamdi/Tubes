@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KacauuwBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5331d11408e0619fd5d8c2b43032179974b0b622")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10d83ed96614104744896e5bc931131d53064127")]
 [assembly: System.Reflection.AssemblyProductAttribute("KacauuwBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KacauuwBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

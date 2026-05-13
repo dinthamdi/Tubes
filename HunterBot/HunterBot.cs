@@ -29,14 +29,24 @@ public class HunterBot : Bot
             // Radar selalu scan
             TurnRadarRight(360);
 
-            // Movement agresif tapi tidak barbar
-            Forward(150 * moveDirection);
+            // SMART MOVEMENT
+            if (Energy > 50)
+            {
+                // Agresif tapi tetap aman
+                Forward(140 * moveDirection);
 
-            // Random turn supaya tidak gampang ditembak
-            TurnRight(rnd.Next(20, 60));
+                TurnRight(rnd.Next(20, 45));
+            }
+            else
+            {
+                // Smarter retreat
+                Back(120);
 
-            // Kadang ganti arah
-            if (rnd.Next(0, 100) > 70)
+                TurnLeft(60);
+            }
+
+            // Ganti arah sesekali agar tidak mudah diprediksi
+            if (rnd.Next(0, 100) > 75)
             {
                 moveDirection *= -1;
             }
@@ -45,7 +55,7 @@ public class HunterBot : Bot
 
     public override void OnScannedBot(ScannedBotEvent e)
     {
-        // Fire adaptif
+        // Adaptive greedy firepower
         if (Energy > 70)
         {
             Fire(3);
@@ -59,11 +69,18 @@ public class HunterBot : Bot
             Fire(1);
         }
 
-        // Rush musuh sedikit
-        Forward(80 * moveDirection);
+        // Jangan terlalu frontal
+        if (Energy > 50)
+        {
+            Forward(60 * moveDirection);
+        }
+        else
+        {
+            Back(80);
+        }
 
-        // Gerakan zigzag setelah scan
-        TurnRight(rnd.Next(15, 45));
+        // Zig-zag movement setelah scan
+        TurnRight(rnd.Next(15, 40));
     }
 
     public override void OnHitWall(HitWallEvent e)
@@ -72,6 +89,7 @@ public class HunterBot : Bot
         moveDirection *= -1;
 
         Back(120);
+
         TurnRight(90);
     }
 
@@ -80,20 +98,29 @@ public class HunterBot : Bot
         // Close combat
         Fire(3);
 
-        // Jangan terlalu lama nempel
+        // Jangan terlalu lama menempel
         Back(80);
 
         TurnRight(45);
+
+        moveDirection *= -1;
     }
 
     public override void OnHitByBullet(HitByBulletEvent e)
     {
-        // Evasive movement
+        // Anti bullet evasive movement
         moveDirection *= -1;
 
         TurnLeft(rnd.Next(30, 70));
 
-        Forward(100);
+        Forward(rnd.Next(80, 150));
+
+        // Kadang reposition kecil
+        if (Energy < 40)
+        {
+            Back(60);
+
+            TurnRight(45);
+        }
     }
 }
-
