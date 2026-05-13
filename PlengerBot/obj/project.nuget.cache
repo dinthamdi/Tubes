@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1gbvWXyQSXI=",
+  "dgSpecHash": "8s946Mi8svI=",
   "success": true,
-  "projectFilePath": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\SniperBot\\SniperBot.csproj",
+  "projectFilePath": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\PlengerBot\\PlengerBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nitro\\.nuget\\packages\\microsoft.build.locator\\1.7.8\\microsoft.build.locator.1.7.8.nupkg.sha512",
     "C:\\Users\\nitro\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

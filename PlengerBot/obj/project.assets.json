@@ -731,11 +731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\SniperBot\\SniperBot.csproj",
-      "projectName": "SniperBot",
-      "projectPath": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\SniperBot\\SniperBot.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\PlengerBot\\PlengerBot.csproj",
+      "projectName": "PlengerBot",
+      "projectPath": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\PlengerBot\\PlengerBot.csproj",
       "packagesPath": "C:\\Users\\nitro\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\SniperBot\\obj\\",
+      "outputPath": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\PlengerBot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nitro\\AppData\\Roaming\\NuGet\\NuGet.Config"

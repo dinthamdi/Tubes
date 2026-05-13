@@ -3,17 +3,17 @@ using System.Drawing;
 using Robocode.TankRoyale.BotApi;
 using Robocode.TankRoyale.BotApi.Events;
 
-public class HunterBot : Bot
+public class LarasBot : Bot
 {
     private int moveDirection = 1;
     private Random rnd = new Random();
 
     static void Main(string[] args)
     {
-        new HunterBot().Start();
+        new LarasBot().Start();
     }
 
-    HunterBot() : base(BotInfo.FromFile("HunterBot.json")) { }
+    LarasBot() : base(BotInfo.FromFile("LarasBot.json")) { }
 
     public override void Run()
     {

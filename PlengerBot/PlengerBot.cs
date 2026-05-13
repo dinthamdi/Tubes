@@ -2,14 +2,14 @@ using System.Drawing;
 using Robocode.TankRoyale.BotApi;
 using Robocode.TankRoyale.BotApi.Events;
 
-public class SniperBot : Bot
+public class PlengerBot : Bot
 {
     static void Main(string[] args)
     {
-        new SniperBot().Start();
+        new PlengerBot().Start();
     }
 
-    SniperBot() : base(BotInfo.FromFile("SniperBot.json")) { }
+    PlengerBot() : base(BotInfo.FromFile("PlengerBot.json")) { }
 
     public override void Run()
     {

@@ -731,11 +731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\HunterBot\\HunterBot.csproj",
-      "projectName": "HunterBot",
-      "projectPath": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\HunterBot\\HunterBot.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\LarasBot\\LarasBot.csproj",
+      "projectName": "LarasBot",
+      "projectPath": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\LarasBot\\LarasBot.csproj",
       "packagesPath": "C:\\Users\\nitro\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\HunterBot\\obj\\",
+      "outputPath": "D:\\OneDrive\\Dokumen\\TUGAS Stresss\\Tubes\\LarasBot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nitro\\AppData\\Roaming\\NuGet\\NuGet.Config"
