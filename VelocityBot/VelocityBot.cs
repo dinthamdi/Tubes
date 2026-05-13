@@ -15,12 +15,12 @@ public class VelocityBot : Bot
 
     public override void Run()
     {
-        BodyColor = Color.Purple;
-        GunColor = Color.DarkViolet;
+        BodyColor = Color.Green;
+        GunColor = Color.Lime;
         RadarColor = Color.Magenta;
-        BulletColor = Color.DeepPink;
-        TracksColor = Color.White;
-        ScanColor = Color.LightPink;
+        BulletColor = Color.Aqua;
+        TracksColor = Color.Yellow;
+        ScanColor = Color.Cyan;
 
         while (IsRunning)
         {

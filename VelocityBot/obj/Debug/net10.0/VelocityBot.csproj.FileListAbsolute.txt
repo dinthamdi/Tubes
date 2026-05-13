@@ -1,8 +1,4 @@
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\bin\Debug\net10.0\VelocityBot.exe
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\bin\Debug\net10.0\VelocityBot.deps.json
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\bin\Debug\net10.0\VelocityBot.runtimeconfig.json
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\bin\Debug\net10.0\VelocityBot.dll
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\bin\Debug\net10.0\VelocityBot.pdb
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\bin\Debug\net10.0\Microsoft.Build.Locator.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\bin\Debug\net10.0\Microsoft.Extensions.Configuration.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
@@ -29,5 +25,3 @@ D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\Velocity.2
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\VelocityBot.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\refint\VelocityBot.dll
 D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\VelocityBot.pdb
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\VelocityBot.genruntimeconfig.cache
-D:\OneDrive\Dokumen\TUGAS Stresss\Tubes\VelocityBot\obj\Debug\net10.0\ref\VelocityBot.dll
